@@ -1,6 +1,5 @@
 package tr.com.yusufgunduz.obsws.barebone;
 
-
 import net.twasi.obsremotejava.requests.GetVersion.GetVersionRequest;
 import org.eclipse.jetty.websocket.api.Session;
 import org.eclipse.jetty.websocket.api.StatusCode;
